@@ -79,9 +79,9 @@ If you need to download data files for your curriculum lecture, you can find the
   * Make sure all of these extensions are by Microsoft:
     - Python
     - Jupyter
-    - SQL Server (postgresql)
-    - SQL Database Projects
     - GitHub Pull Requests
+
+4. Install Pip by running the command "python3 get-pip.py" in your termninal window.
 
 5. Congratulations! You are now ready to code!
 

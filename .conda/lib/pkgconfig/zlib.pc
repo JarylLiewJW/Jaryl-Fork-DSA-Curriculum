@@ -1,0 +1,13 @@
+prefix=/Users/jarylljw/repositories/Jaryl-Fork-DSA-Curriculum/.conda
+exec_prefix=/Users/jarylljw/repositories/Jaryl-Fork-DSA-Curriculum/.conda
+libdir=/Users/jarylljw/repositories/Jaryl-Fork-DSA-Curriculum/.conda/lib
+sharedlibdir=/Users/jarylljw/repositories/Jaryl-Fork-DSA-Curriculum/.conda/lib
+includedir=/Users/jarylljw/repositories/Jaryl-Fork-DSA-Curriculum/.conda/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
